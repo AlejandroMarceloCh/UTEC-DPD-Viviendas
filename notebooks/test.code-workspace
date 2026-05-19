@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "UTEC-DPD-Viviendas",
+			"path": "../../../Documents/UTEC/ciclo/6to/desarrollo_producto_datos/UTEC-DPD-Viviendas"
+		},
+		{
+			"name": "src",
+			"path": "../src"
+		},
+		{
+			"name": "reports",
+			"path": "../reports"
+		},
+		{
+			"name": "notebooks",
+			"path": "."
+		},
+		{
+			"name": "models",
+			"path": "../models"
+		},
+		{
+			"name": "data",
+			"path": "../data"
+		}
+	],
+	"settings": {}
+}

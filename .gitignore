@@ -1,0 +1,16 @@
+# Entornos virtuales de Python
+venv/
+.venv/
+env/
+virtualenv/
+
+# Archivos compilados y caché de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales de Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Archivos ocultos del sistema operativo (Mac/Windows)
+.DS_Store
+Thumbs.db
