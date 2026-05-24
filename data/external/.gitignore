@@ -1,0 +1,5 @@
+# Archivos pesados — no committeados. Se regeneran con scripts/download_external.py
+inei_comisarias/2017/
+inei_comisarias/cenacom_2017.zip
+inei_estratos/libro_inei_estratos_2020.pdf
+mininter_denuncias/denuncias_2018_2026.csv
